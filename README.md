@@ -1,1 +1,1 @@
-# 7089-CEM-Introduction-to-Statistical-Methods-for-Data-Science-
+# 7089-CEM-Introduction-to-Statistical-Methods-for-Data-Science
